@@ -2,7 +2,7 @@
 
 Role-specific portfolio for Observability / SRE / DevOps Tools Leader opportunities.
 
-**Live:** https://rdammala.github.io/LexisNexis_Observability-SRE-DevOps-Leader/
+**Live:** https://rdammala-org.github.io/LexisNexis_Observability-SRE-DevOps-Leader/
 
 ## Stack
 Vanilla HTML / CSS / JS · Google Fonts (Inter) · dark/light theme.
